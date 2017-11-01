@@ -6,3 +6,7 @@
 # 下面是第一天的学习
 决定以《Natural Language Processing with Python》来作为入门书籍，
 第一天学习书籍的第一章，并尝试做一下相关的题目，并自己总结一下学习的感受
+
+# 下面是第二天的学习
+
+学习了《Natural Language Processing with Python》的第二章，感觉难度不是特别大，可能是刚刚入门，书籍也是主要使用nltk框架作为演示，更偏向于学习框架的基本api知识，和展示一些基本的文本处理的方法以及思路。
